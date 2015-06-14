@@ -1,11 +1,11 @@
 [settings]
-search_query:#yourHashtag
+search_query:#sumane
 # Leave empty for all languages
 tweet_language:
 
 # Create your app on http://apps.twitter.com
 [twitter]
-consumer_key:
-consumer_secret:
-access_token:
-access_token_secret:
+consumer_key: DzJfu6OnkQkrJ3QCGEC7EuzDb
+consumer_secret: 9322Fdg1L0rWjxS5Fc5PK8QmW6QePOwv4KWynkeNmI8c5IVHT2
+access_token: 3244922072-Ll11XORcoWYzXZwNNJmfXAFrogS28SlvPGqEUqO
+access_token_secret: rJd90RS8qtgfdoW3FGm00av8a3XXESaKPBNjBvYpYtOMn
